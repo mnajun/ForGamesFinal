@@ -1,0 +1,112 @@
+[{
+    "id": 1,
+    "tipo": "CD",
+    "nombre": "PS4 SONIC FRONTIERS",
+    "precio": 24900,
+    "foto": "../media/products/Sonic.jpg"
+}, {
+    "id": 2,
+    "tipo": "CD",
+    "nombre": "PS4 GOD OF WAR RAGNAROK ",
+    "precio": 32200,
+    "foto": "../media/products/gowrag.jpg"
+}, {
+    "id": 3,
+    "tipo": "CD",
+    "nombre": "PS4 CALL OD FUTY MODERN WAREFARE II",
+    "precio": 39900,
+    "foto": "../media/products/Call of Duty Modern Warefare II.jpg"
+}, {
+    "id": 4,
+    "tipo": "CD",
+    "nombre": "PS4 CAPTAIN TSUBASA RISE OF NEW CHAMPIONS",
+    "precio": 11100,
+    "foto": "../media/products/captain tsubasa rise of new champions.jpg"
+}, {
+    "id": 5,
+    "tipo": "CD",
+    "nombre": "PS4 COOKING MAMA COOKSTAR",
+    "precio": 8800,
+    "foto": "../media/products/cooking mama cookstar.jpg"
+}, {
+    "id": 6,
+    "tipo": "CD",
+    "nombre": "PS4 CRASH TEAM RUMBLE DELUXE EDITION",
+    "precio": 27700,
+    "foto": "../media/products/crash team rumble deluxe edition.jpg"
+}, {
+    "id": 7,
+    "tipo": "CD",
+    "nombre": "PS4 DARK SOULS III THE FIRE FADES EDITION",
+    "precio": 10900,
+    "foto": "../media/products/dark souls III the Fire fades edition.jpg"
+}, {
+    "id": 8,
+    "tipo": "CD",
+    "nombre": "PS4 F1 2023",
+    "precio": 38800,
+    "foto": "../media/products/F1 2023.jpg"
+},
+{
+    "id": 9,
+    "tipo": "CD",
+    "nombre": "PS4 FALLOUT 79",
+    "precio": 19000,
+    "foto": "../media/products/fallout 76.jpg"
+},
+{
+    "id": 10,
+    "tipo": "CD",
+    "nombre": "PS4 FIFA 23",
+    "precio": 22900,
+    "foto": "../media/products/fifa 23.jpg"
+}, {
+    "id": 11,
+    "tipo": "CD",
+    "nombre": "PS4 LIKE A DRAGON ISHIN!",
+    "precio": 28800,
+    "foto": "../media/products/like a dragon ishin!.jpg"
+}, {
+    "id": 12,
+    "tipo": "CD",
+    "nombre": "PS4 MORTAL KOMBAT 11 ULTIMATE",
+    "precio": 16600,
+    "foto": "../media/products/mortal kombat 11 ultimate.jpg"
+}, {
+    "id": 13,
+    "tipo": "CD",
+    "nombre": "PS4 OUTCAST SECOND CONTACT",
+    "precio": 6600,
+    "foto": "../media/products/outcast second contact.jpg"
+}, {
+    "id": 14,
+    "tipo": "CD",
+    "nombre": "PS4 RESIDENT EVIL 4 REMAKE",
+    "precio": 32900,
+    "foto": "../media/products/resident evil 4 remake.jpg"
+}, {
+    "id": 15,
+    "tipo": "CD",
+    "nombre": "PS4 RESIDENT EVIL VILLAGE",
+    "precio": 19900,
+    "foto": "../media/products/resident evil village.jpg"
+}, {
+    "id": 16,
+    "tipo": "CD",
+    "nombre": "PS4 SEGA GENESIS CLASSICS",
+    "precio": 17700,
+    "foto": "../media/products/sega genesis classics.jpg"
+}, {
+    "id": 17,
+    "tipo": "CD",
+    "nombre": "PS4 STRAY",
+    "precio": 22900,
+    "foto": "../media/products/stray.jpg"
+}, {
+    "id": 18,
+    "tipo": "CD",
+    "nombre": "PS4 STREET FIGHTER V CHAMPION EDITION",
+    "precio": 6900,
+    "foto": "../media/products/street fighter V champion edition.jpg"
+}
+]
